@@ -40,14 +40,14 @@ Tests have ensured robust software by detecting and preventing critical issues:
 
 Bugs Found:
 
--- Side bar navigation issue.
+  - Side bar navigation issue.
 
--- Prevention of empty task creation.
+  - Prevention of empty task creation.
 
--- Fixed search counter display for total tasks.
+  - Fixed search counter display for total tasks.
 
 2. ## Documentation Design Enhancements
 
 Ensured the documentation reflects accurate project requirements:
 
--- Added missing requirements for the Create Task page.
+  - Added missing requirements for the Create Task page.
