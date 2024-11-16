@@ -15,6 +15,7 @@ Task Board is an app for organizing tasks. Users can create tasks and assign the
 Written test cases by me for this appliation can be found on [this link](https://docs.google.com/spreadsheets/d/13SU_3rEFU_LCW3LDiKVlA823Y8k3MAxC/edit?usp=drive_link&ouid=101865710122533479047&rtpof=true&sd=true). 
 
 My tests improved the quality of the software by:
+
 **1.Catching critical bugs** - critical defects were caught and reported as they would have been costly if they reached production.
 Bugs found:
 1.API & Edit page cannot be accessed 
