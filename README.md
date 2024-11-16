@@ -17,16 +17,22 @@ Written test cases by me for this appliation can be found on [this link](https:/
 My tests improved the quality of the software by:
 
 **1.Catching critical bugs** - critical defects were caught and reported as they would have been costly if they reached production.
+
 Bugs found:
+
 1.API & Edit page cannot be accessed 
 2.Tasks are deleted after they have been created
 
 **2.Increasing code reliability** - features were tested under various negative conditions, which made software proner to errors.
+
 Bugs found:
+
 1.Pages cannot be accessed through side bar
 2.Empty task can be created 
 3.Counter does not display the total number of tasks found when search is performed
 
 **3.Fixed bug in design for documentation** 
+
 Bug found:
+
 Missing requirements for Create Task page in the documentation
