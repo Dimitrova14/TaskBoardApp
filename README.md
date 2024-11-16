@@ -26,7 +26,7 @@ Features:
 ✅ Track progress: Real-time counters for task tracking.
 
 Bug Fixes and Improvements
-1. ## Improved Quality Assurance
+## 1. ## Improved Quality Assurance
 
 Tests have ensured robust software by detecting and preventing critical issues:
 
@@ -46,7 +46,7 @@ Bugs Found:
 
   - Fixed search counter display for total tasks.
 
-2. ## Documentation Design Enhancements
+## 2. ## Documentation Design Enhancements
 
 Ensured the documentation reflects accurate project requirements:
 
