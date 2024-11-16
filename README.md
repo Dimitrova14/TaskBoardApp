@@ -32,9 +32,9 @@ Tests have ensured robust software by detecting and preventing critical issues:
 
 🛠 Critical Bug Fixes:
 
--- Fixed API and Edit page accessibility issues.
+  -Fixed API and Edit page accessibility issues.
 
--- Prevented tasks from being deleted after creation.
+  -Prevented tasks from being deleted after creation.
 
 🛠 Reliability Enhancements: Validated features under negative conditions.
 
