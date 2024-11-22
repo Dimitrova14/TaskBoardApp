@@ -10,7 +10,7 @@ TaskBoard is an app for organizing tasks efficiently. Users can create tasks, as
   >
 </p>
 
-> _🧪 A source code of a .NET Core application to be tested, provided by Software University - Bulgaria_
+> _🧪 A source code of a .NET Core application to be tested, provided by Software University 'SoftUni'  - Bulgaria_
 
 ## Test cases
 Written test cases by me for this appliation can be found on [this link](https://docs.google.com/spreadsheets/d/13SU_3rEFU_LCW3LDiKVlA823Y8k3MAxC/edit?usp=drive_link&ouid=101865710122533479047&rtpof=true&sd=true). 
